@@ -1,4 +1,4 @@
-# urban-growth-analysis-
+# urban-growth-analysis
 # City Population Trends - Data Analysis & Visualization
 
 This project analyzes urban population trends across major global cities from 1950 to 2035. Using data from the United Nations Urbanization Prospects (2018), the project explores growth patterns, visualizes trends, and identifies key insights into urban expansion.
